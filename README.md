@@ -4,6 +4,9 @@
 
 # Induction Motor
 ## Single Phase
+- [Single Phase Induction Motor, How it works ?](https://youtu.be/awrUxv7B-a8)
+
+### Wiring:
 - [Single Phase Electric Motor Wiring Tutorial: Baldor, WEG, Leeson](https://youtu.be/rLymneTNIdI)
 - [How to connect a single phase motor and identify each winding lead ?](https://youtu.be/5sVNy4jADeI)
 - [How to Connect a Single Phase Motor](https://youtu.be/UVjJvJMHzyI)
