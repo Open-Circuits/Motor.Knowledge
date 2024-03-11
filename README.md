@@ -4,6 +4,7 @@
 
 # Induction Motor
 ## Fundamentals:
+sch: https://www.google.com/search?q=double+revolving+field+theory
 - [Understanding RMF | The driving force behind every AC machine](https://youtu.be/wqrGHeuxUvI)
 
 ## Single Phase
