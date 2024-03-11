@@ -14,6 +14,7 @@ sch: https://www.google.com/search?q=double+revolving+field+theory
 ## Single Phase
 ### Fundamentals:
 - [Single Phase Induction Motor, How it works ?](https://youtu.be/awrUxv7B-a8)
+- [Single Phase Induction Motor (Capacitor Induction Motor or AC Motor) explained](https://youtu.be/FDerrQw99KU)
 
 ### Wiring:
 - [Single Phase Electric Motor Wiring Tutorial: Baldor, WEG, Leeson](https://youtu.be/rLymneTNIdI)
