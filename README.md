@@ -4,6 +4,7 @@
 
 # Induction Motor
 ## Single Phase
+### Fundamentals:
 - [Single Phase Induction Motor, How it works ?](https://youtu.be/awrUxv7B-a8)
 
 ### Wiring:
