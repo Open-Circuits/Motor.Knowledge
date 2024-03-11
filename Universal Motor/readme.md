@@ -1,0 +1,1 @@
+- [Washing Machine Motor Connections For Your Easy Projects](https://youtu.be/saYtMLcRtLU)
