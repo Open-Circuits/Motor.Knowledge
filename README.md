@@ -3,6 +3,9 @@
 - [Ultimate Beginners Guide to Using Electric Motors for Makers and DIY Projects; #068](https://youtu.be/SrPHQh-M3pM)
 
 # Induction Motor
+## Fundamentals:
+- [Understanding RMF | The driving force behind every AC machine](https://youtu.be/wqrGHeuxUvI)
+
 ## Single Phase
 ### Fundamentals:
 - [Single Phase Induction Motor, How it works ?](https://youtu.be/awrUxv7B-a8)
